@@ -57,7 +57,8 @@ will use SQL to do so.
 
 
 *Futher Analysis is shown in above .rmd File please check it for further understanding.*
-[Google Data Analysit Capstone Cyclistic Project.Rmd](https://github.com/Brijesh403/Google_Data_Analytics_Capstone/blob/main/Google%20Data%20Analysit%20Capstone%20Cyclistic%20Project.Rmd)
+
+*[Google Data Analysit Capstone Cyclistic Project.Rmd](https://github.com/Brijesh403/Google_Data_Analytics_Capstone/blob/main/Google%20Data%20Analysit%20Capstone%20Cyclistic%20Project.Rmd)
 
 
 ## Conclusion and Recommendations
