@@ -1,11 +1,11 @@
---------------------------------------------
+#Cyclystic bike sharing analysis
+---------------------------------------------
 ### Table of Contents
 1. [Introduction](README.md#Introduction)
 2. [Business Task](README.md#Business-task)
 3. [Data](README.md#Data)
 4. [Processing and Cleaning](README.md#Processing-and-cleaning)
 5. [Conclusion and Recommendations](README.md#Conclusion-and-Recommendations)
---------------------------------------------
 --------------------------------------------
 
 ## Introduction
@@ -46,11 +46,11 @@ I have use Excel to merge some files.
 
 We will Combine the 2nd Quarter data from 2016 month 04,05,06 through
 Microsoft Excel.
-![Exicuting Merge Query Q2 2016](https://user-images.githubusercontent.com/100509604/206896689-0e252799-c436-45cb-9eff-626af965c35c.JPG)
+[Exicuting Merge Query Q2 2016](https://user-images.githubusercontent.com/100509604/206896689-0e252799-c436-45cb-9eff-626af965c35c.JPG)
 
 We also require to merge the data of 2015 Q3 month 07,08,09 this time we
 will use SQL to do so.
-![Merging 2015 Q3 in SQLite](https://user-images.githubusercontent.com/100509604/206896702-14cc33a8-6244-417f-9c0f-df778d9bbc28.JPG)
+[Merging 2015 Q3 in SQLite](https://user-images.githubusercontent.com/100509604/206896702-14cc33a8-6244-417f-9c0f-df778d9bbc28.JPG)
 
 
 
