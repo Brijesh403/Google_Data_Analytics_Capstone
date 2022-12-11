@@ -3,7 +3,7 @@
 2. [Business Task](README.md#Business-task)
 3. [Data](README.md#Data)
 4. [Processing and Cleaning](README.md#Processing-and-cleaning)
-5. [Conclusion and Recommendations](README.md#Conclusions)
+5. [Conclusion and Recommendations](README.md#Conclusion and Recommendations)
 
 ## Introduction
 
@@ -83,3 +83,5 @@ peaks varies between annual members and casual riders:
     loyalty. This suggests a positive message, namely that the company
     will be able to persuade many casual riders to become members and to
     maintain the satisfaction of the new members.
+    
+**To see Recomendation Please read the .rmd file above**
