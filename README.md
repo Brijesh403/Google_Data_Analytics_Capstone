@@ -3,7 +3,7 @@
 2. [Business Task](README.md#Business-task)
 3. [Data](README.md#Data)
 4. [Processing and Cleaning](README.md#Processing-and-cleaning)
-5. [Conclusion and Recommendations](README.md#Conclusion and Recommendations)
+5. [Conclusion and Recommendations](README.md#Conclusion-and-Recommendations)
 
 ## Introduction
 
