@@ -1,5 +1,4 @@
-# Table of Contents
-
+### Table of Contents
 1. [Introduction](README.md#Introduction)
 2. [Business Task](README.md#Business-task)
 3. [Data](README.md#Data)
@@ -45,15 +44,14 @@ I have use Excel to merge some files.
 We will Combine the 2nd Quarter data from 2016 month 04,05,06 through
 Microsoft Excel.
 
-![](images/Exicuting%20Merge%20Query%20Q2%202016.JPG)
+![Excel](images/Exicuting%20Merge%20Query%20Q2%202016.JPG)
 
 We also require to merge the data of 2015 Q3 month 07,08,09 this time we
 will use SQL to do so.
 
-![](images/Merging%202015%20Q3%20in%20SQLite.JPG)
+![SQLite](images/Merging%202015%20Q3%20in%20SQLite.JPG)
 
-Now we have all the file with appropriate formats in a folder to start
-merging to one main file in R.
+*Futher Analysis is shown in above .rmd File please check it for further understanding.*
 
 
 ## Conclusion and Recommendations
