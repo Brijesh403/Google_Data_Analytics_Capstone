@@ -57,7 +57,7 @@ will use SQL to do so.
 
 
 *Futher Analysis is shown in above .rmd File please check it for further understanding.*
-Google Data Analysit Capstone Cyclistic Project.Rmd
+[Google Data Analysit Capstone Cyclistic Project.Rmd](https://github.com/Brijesh403/Google_Data_Analytics_Capstone/blob/main/Google%20Data%20Analysit%20Capstone%20Cyclistic%20Project.Rmd)
 
 
 ## Conclusion and Recommendations
@@ -90,3 +90,4 @@ peaks varies between annual members and casual riders:
     maintain the satisfaction of the new members.
     
 **To see Recomendation Please read the .rmd file above**
+[Here](https://github.com/Brijesh403/Google_Data_Analytics_Capstone/blob/main/Google%20Data%20Analysit%20Capstone%20Cyclistic%20Project.Rmd)
