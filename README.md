@@ -44,7 +44,7 @@ I have use Excel to merge some files.
 We will Combine the 2nd Quarter data from 2016 month 04,05,06 through
 Microsoft Excel.
 
-![Excel](images/Exicuting%20Merge%20Query%20Q2%202016.JPG)
+![Excel](https://ibb.co/p33F8b2)
 
 We also require to merge the data of 2015 Q3 month 07,08,09 this time we
 will use SQL to do so.
