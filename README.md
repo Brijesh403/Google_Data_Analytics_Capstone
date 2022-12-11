@@ -27,11 +27,11 @@ To **analyze historical bicycle trip data** in order to **identify trends**. Und
 * **Our date range** : June 202013 to October 2022 (4.9 GB data)
 ***Data Organization & Description:**
 
-*File naming convention: YYYY_MM
+* File naming convention: YYYY_MM
 
-*File Type: csv format
+* File Type: csv format
 
-*File Content: Each csv file consist of 13 columns which contain information related to ride id, rider type, ride start and end time, start and end location etc. Number of rows varies between 49k to 531k from different excel files.
+* File Content: Each csv file consist of 13 columns which contain information related to ride id, rider type, ride start and end time, start and end location etc. Number of rows varies between 49k to 531k from different excel files.
 
 
 ## Processing and Cleaning
